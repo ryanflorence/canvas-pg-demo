@@ -1,0 +1,6 @@
+{
+  "dev": {
+    "constring": "postgres://localhost/canvas_development"
+  }
+}
+
